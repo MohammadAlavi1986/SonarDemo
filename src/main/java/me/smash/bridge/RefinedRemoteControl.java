@@ -6,7 +6,7 @@ class RefinedRemoteControl extends RemoteControl {
     super(implementor);
   }
 
-  void nextChannel() {
-    setChannel(getCurrentChannel() + 1);
+  String nextChannel() {
+    return setChannel(getCurrentChannel() + 1);
   }
 }

@@ -1,0 +1,21 @@
+
+4me.smash.builder.User#getBirthDate()Ljava/util/Date;Z
+P/Users/mohammad/Downloads/DesignPattern/src/main/java/me/smash/builder/User.java ("1*Ä
+1Z
+P/Users/mohammad/Downloads/DesignPattern/src/main/java/me/smash/builder/User.java (¥
+¢
+Z
+P/Users/mohammad/Downloads/DesignPattern/src/main/java/me/smash/builder/User.java (
+%0java.util.Date"__id*(*&
+me.smash.builder.User"
+	birthDateÂ¿
+Z
+P/Users/mohammad/Downloads/DesignPattern/src/main/java/me/smash/builder/User.java (#
+%1java.lang.Object"(java.util.Date#clone()Ljava/lang/Object;*
+
+%0java.util.Date2clone()"v
+Z
+P/Users/mohammad/Downloads/DesignPattern/src/main/java/me/smash/builder/User.java ($
+
+%1java.lang.ObjectB
+me.smash.builder.User

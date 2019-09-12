@@ -2,10 +2,10 @@ package me.smash.bridge;
 
 public interface TvImplementor {
 
-  void on();
+  String on();
 
-  void off();
+  String off();
 
-  void tuneChannel(int channel);
+  String tuneChannel(int channel);
 
 }
