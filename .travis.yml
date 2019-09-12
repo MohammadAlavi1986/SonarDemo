@@ -13,6 +13,5 @@ jdk:
 
 script:
   # JaCoCo is used to have code coverage, "-Pcoverage" activates the maven profile in the pom.xml
-  -  mvn sonar:sonar   -Dsonar.projectKey=AureaMohammadAlavi_SonarDemo   -Dsonar.organization=aureamohammadalavi   -Dsonar.host.url=https://sonarcloud.io   -Dsonar.login=a56cfbb38a3eab90c5660278fa1b347344f55de2
-
+  -  mvn verify sonar:sonar   -Dsonar.projectKey=AureaMohammadAlavi_SonarDemo   -Dsonar.organization=aureamohammadalavi   -Dsonar.host.url=https://sonarcloud.io   -Dsonar.login=ddbfbdae5b0dd7b05c2478ed5abe2a601cc5a3b0
 
