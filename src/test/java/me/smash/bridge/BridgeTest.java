@@ -21,8 +21,12 @@ public class BridgeTest {
     assertEquals("Samsung-Off",  remoteControl2.off());
 
     RefinedRemoteControl refinedController = new RefinedRemoteControl(implementor2);
+    RefinedRemoteControl refinedController2 = new RefinedRemoteControl(implementor1);
 
     assertEquals("Samsung-tuneChannel-1",  refinedController.nextChannel());
     assertEquals("Samsung-tuneChannel-2",  refinedController.nextChannel());
+
+    assertEquals("Sony-tuneChannel-1",  refinedController2.nextChannel());
+    assertEquals("Sony-tuneChannel-2",  refinedController2.nextChannel());
   }
 }

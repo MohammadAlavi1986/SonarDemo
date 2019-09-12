@@ -87,7 +87,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DecoratorDemo">
+  <component name="RunManager" selected="JUnit.me.smash.bridge in DesignPattern">
     <configuration name="AbstractFactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.smash.abstractfactory.AbstractFactoryDemo" />
       <module name="DesignPattern" />
@@ -127,19 +127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MementoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="me.smash.memento.MementoDemo" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="me.smash.memento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="VisitorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.smash.visitor.VisitorDemo" />
       <module name="DesignPattern" />
@@ -153,13 +140,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="me.smash.bridge in DesignPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.smash.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.smash.bridge" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.me.smash.bridge in DesignPattern" />
         <item itemvalue="Application.DecoratorDemo" />
         <item itemvalue="Application.AbstractFactoryDemo" />
         <item itemvalue="Application.InterpreterDemo" />
         <item itemvalue="Application.VisitorDemo" />
-        <item itemvalue="Application.MementoDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -183,5 +184,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DesignPattern$me_smash_bridge_in_DesignPattern.ic" NAME="me.smash.bridge in DesignPattern Coverage Results" MODIFIED="1568286130023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>me.smash.bridge.*</FILTER>
+    </SUITE>
   </component>
 </project>
