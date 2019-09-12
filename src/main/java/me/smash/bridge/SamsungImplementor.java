@@ -3,17 +3,17 @@ package me.smash.bridge;
 public class SamsungImplementor implements TvImplementor {
 
   @Override
-  public void on() {
-    System.out.println("Samsung-On");
+  public String on() {
+    return "Samsung-On";
   }
 
   @Override
-  public void off() {
-    System.out.println("Samsung-Off");
+  public String off() {
+    return "Samsung-Off";
   }
 
   @Override
-  public void tuneChannel(int channel) {
-    System.out.println("Samsung-tuneChannel-" + channel);
+  public String tuneChannel(int channel) {
+    return "Samsung-tuneChannel-" + channel;
   }
 }
