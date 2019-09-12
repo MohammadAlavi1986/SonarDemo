@@ -3,18 +3,18 @@ package me.smash.bridge;
 public class SonyImplementor implements TvImplementor {
 
   @Override
-  public String on() {
-    return "Sony-On";
+  public void on() {
+    System.out.println("Sony-On");
   }
 
   @Override
-  public String off() {
-    return "Sony-Off";
+  public void off() {
+    System.out.println("Sony-Off");
   }
 
   @Override
-  public String tuneChannel(int channel) {
-    return "Sony-tuneChannel-" + channel;
+  public void tuneChannel(int channel) {
+    System.out.println("Sony-tuneChannel-" + channel);
   }
 }
 

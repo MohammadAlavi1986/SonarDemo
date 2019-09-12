@@ -1,7 +1,0 @@
-organization=aureamohammadalavi
-projectKey=AureaMohammadAlavi_SonarDemo
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.598
-dashboardUrl=https://sonarcloud.io/dashboard?id=AureaMohammadAlavi_SonarDemo
-ceTaskId=AW0lC8xGL92Etu3Ilpmi
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW0lC8xGL92Etu3Ilpmi

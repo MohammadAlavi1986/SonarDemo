@@ -9,17 +9,17 @@ public class RemoteControl {
     this.implementor = implementor;
   }
 
-  String on() {
-    return implementor.on();
+  void on() {
+    implementor.on();
   }
 
-  public String off() {
-    return implementor.off();
+  public void off() {
+    implementor.off();
   }
 
-  String setChannel(int channel) {
+  void setChannel(int channel) {
     this.currentChannel = channel;
-    return implementor.tuneChannel(channel);
+    implementor.tuneChannel(channel);
   }
 
   int getCurrentChannel() {

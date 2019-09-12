@@ -1,20 +1,0 @@
-
-/me.smash.adapter.EnumerationIterator#hasNext()Zi
-_/Users/mohammad/Downloads/DesignPattern/src/main/java/me/smash/adapter/EnumerationIterator.java ("1*Ž
-1i
-_/Users/mohammad/Downloads/DesignPattern/src/main/java/me/smash/adapter/EnumerationIterator.java (Ì
-É
-i
-_/Users/mohammad/Downloads/DesignPattern/src/main/java/me/smash/adapter/EnumerationIterator.java (
-%0java.util.Enumeration"__id*9*7&
-$me.smash.adapter.EnumerationIterator"
-enumerationÙÖ
-i
-_/Users/mohammad/Downloads/DesignPattern/src/main/java/me/smash/adapter/EnumerationIterator.java ((
-%1boolean"(java.util.Enumeration#hasMoreElements()Z*
-
-%0java.util.Enumeration2hasMoreElements()"s
-i
-_/Users/mohammad/Downloads/DesignPattern/src/main/java/me/smash/adapter/EnumerationIterator.java ()
-""B(&
-$me.smash.adapter.EnumerationIterator
