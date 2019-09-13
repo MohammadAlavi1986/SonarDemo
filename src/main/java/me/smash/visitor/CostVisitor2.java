@@ -25,7 +25,7 @@ public class CostVisitor2 implements Visitor2 {
   }
 
   private void visit(FruitOrder order) {
-    totalCost += order.getPricePerKG() * order.getWeight();
+    totalCost += order.getPricePerKg() * order.getWeight();
   }
 
   public int getTotalCost() {

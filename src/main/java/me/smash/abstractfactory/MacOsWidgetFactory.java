@@ -1,10 +1,10 @@
 package me.smash.abstractfactory;
 
-public class MacOSWidgetFactory implements WidgetFactory {
+public class MacOsWidgetFactory implements WidgetFactory {
 
   @Override
   public Window createWindow() {
-    return new MacOSWindow();
+    return new MacOsWindow();
   }
 
   @Override

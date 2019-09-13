@@ -3,6 +3,7 @@ package me.smash.builder;
 import java.util.Date;
 
 class UserBuilder {
+
   private final String name;
   private final String family;
   private Date birthDate;
@@ -18,10 +19,12 @@ class UserBuilder {
     this.birthDate = birthDate;
     return this;
   }
+
   UserBuilder education(String education) {
     this.education = education;
     return this;
   }
+
   UserBuilder address(String address) {
     this.address = address;
     return this;

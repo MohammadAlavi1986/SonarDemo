@@ -1,14 +1,14 @@
 package me.smash.abstractfactory;
 
-public class MSWidgetFactory implements WidgetFactory {
+public class MsWidgetFactory implements WidgetFactory {
 
   @Override
   public Window createWindow() {
-    return new MSWindow();
+    return new MsWindow();
   }
 
   @Override
   public Button createButton() {
-    return new MSButton();
+    return new MsButton();
   }
 }

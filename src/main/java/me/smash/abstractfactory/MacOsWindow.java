@@ -1,6 +1,6 @@
 package me.smash.abstractfactory;
 
-public class MacOSWindow implements Window {
+public class MacOsWindow implements Window {
 
   @Override
   public void show() {

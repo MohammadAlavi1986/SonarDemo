@@ -4,7 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ConcreteMediator implements Mediator {
+
   private final List<Colleague> colleagueList = new ArrayList<>();
+
   @Override
   public void register(Colleague colleague) {
     if (!colleagueList.contains(colleague)) {

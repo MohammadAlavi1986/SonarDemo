@@ -1,7 +1,10 @@
 package me.smash.mediator;
 
 public interface Mediator {
-  public void register(Colleague colleague);
-  public void unregister(Colleague colleague);
-  public void sendMessage(String message, Colleague colleague);
+
+  void register(Colleague colleague);
+
+  void unregister(Colleague colleague);
+
+  void sendMessage(String message, Colleague colleague);
 }

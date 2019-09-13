@@ -1,6 +1,7 @@
 package me.smash.factory;
 
 public abstract class Pizza {
+
   private final String name;
 
   public Pizza(String name) {
@@ -12,11 +13,8 @@ public abstract class Pizza {
   }
 
 
-
   @Override
   public String toString() {
-    return "Pizza{" +
-        "name='" + name + '\'' +
-        '}';
+    return String.format("Pizza{name='%s'}", name);
   }
 }

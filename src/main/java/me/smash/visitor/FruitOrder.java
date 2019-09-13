@@ -1,7 +1,8 @@
 package me.smash.visitor;
 
 public class FruitOrder implements OrderItem {
-  private final int pricePerKG;
+
+  private final int pricePerKg;
   private final int weight;
 
   @Override
@@ -9,13 +10,13 @@ public class FruitOrder implements OrderItem {
     visitor.visit(this);
   }
 
-  public FruitOrder(int pricePerKG, int weight) {
-    this.pricePerKG = pricePerKG;
+  public FruitOrder(int pricePerKg, int weight) {
+    this.pricePerKg = pricePerKg;
     this.weight = weight;
   }
 
-  public int getPricePerKG() {
-    return pricePerKG;
+  public int getPricePerKg() {
+    return pricePerKg;
   }
 
   public int getWeight() {

@@ -23,7 +23,35 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cd0598a-7b7b-41db-9f3d-5d3b9d66193d" name="Default Changelist" comment="" />
+    <list default="true" id="8cd0598a-7b7b-41db-9f3d-5d3b9d66193d" name="Default Changelist" comment="test trigger">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkstyle_suppressions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google_checks_custom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/CreateReadUpdateDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/CreateReadUpdateDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/DeleteConfirmation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/DeleteConfirmation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/AbstractFactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/AbstractFactoryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/MSButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/MsButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/MSWidgetFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/MsWidgetFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/MSWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/MsWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/MacOSWidgetFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/MacOsWidgetFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/MacOSWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/MacOsWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/WidgetFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/abstractfactory/WidgetFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/adapter/AdapterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/adapter/AdapterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/builder/UserBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/builder/UserBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/command/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/factory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/factory/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/flyweight/TreeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/flyweight/TreeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/interpreter/InterpreterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/interpreter/InterpreterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/mediator/ConcreteMediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/mediator/ConcreteMediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/mediator/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/mediator/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/state/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/state/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/visitor/CostVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/visitor/CostVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/visitor/CostVisitor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/visitor/CostVisitor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/visitor/FruitOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/visitor/FruitOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/smash/visitor/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/smash/visitor/Visitor.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +69,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -53,6 +84,7 @@
   </component>
   <component name="ProjectId" id="1QXq7oCAqUQDHrpVZYdWnfFXGMn" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -61,10 +93,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -179,11 +212,63 @@
       <workItem from="1568274148246" duration="576000" />
       <workItem from="1568274745758" duration="1640000" />
       <workItem from="1568276419427" duration="1272000" />
+      <workItem from="1568359596488" duration="5090000" />
     </task>
+    <task id="LOCAL-00001" summary="test trigger">
+      <created>1568359616138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568359616138</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test trigger">
+      <created>1568361403685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568361403685</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test trigger">
+      <created>1568362275316</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568362275316</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test trigger">
+      <created>1568367360050</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568367360050</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test trigger">
+      <created>1568372151852</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568372151852</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test trigger" />
+    <option name="LAST_COMMIT_MESSAGE" value="test trigger" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DesignPattern$me_smash_bridge_in_DesignPattern.ic" NAME="me.smash.bridge in DesignPattern Coverage Results" MODIFIED="1568286130023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

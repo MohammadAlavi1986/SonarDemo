@@ -1,6 +1,7 @@
 package me.smash.state;
 
 public class Context {
+
   private final State alertState;
   private final State silentState;
   private State currentState;

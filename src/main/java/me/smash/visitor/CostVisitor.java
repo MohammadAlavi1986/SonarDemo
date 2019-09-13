@@ -15,7 +15,7 @@ public class CostVisitor implements Visitor {
 
   @Override
   public void visit(FruitOrder order) {
-    totalCost += order.getPricePerKG() * order.getWeight();
+    totalCost += order.getPricePerKg() * order.getWeight();
   }
 
   public int getTotalCost() {

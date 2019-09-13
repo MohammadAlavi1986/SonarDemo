@@ -5,7 +5,7 @@ import java.util.List;
 
 class DeleteConfirmation<E> implements CreateReadUpdateDelete<E> {
 
-  private transient final CreateReadUpdateDelete<E> delegate;
+  private final CreateReadUpdateDelete<E> delegate;
 
   public DeleteConfirmation(CreateReadUpdateDelete<E> delegate) {
     this.delegate = delegate;

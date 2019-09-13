@@ -1,6 +1,6 @@
 package me.smash.abstractfactory;
 
-public class MSButton implements Button {
+public class MsButton implements Button {
 
   @Override
   public void click() {
