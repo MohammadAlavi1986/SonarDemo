@@ -28,5 +28,6 @@ public class BridgeTest {
 
     assertEquals("Sony-tuneChannel-1",  refinedController2.nextChannel());
     assertEquals("Sony-tuneChannel-2",  refinedController2.nextChannel());
+
   }
 }
